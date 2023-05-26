@@ -43,9 +43,10 @@
 	3. [[NoSQL]]
 		1. MongoDB
 		2. Cassandra
-		3. Redis
+		3. DynamoDB
 	4. Caching
 		1. Redis
+		2. Memcached
 5.  Non Techinical skills
 
 
