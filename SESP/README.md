@@ -1,13 +1,13 @@
 1.  System Design
 	1. Design System
 	2. Design Patterns
-	3. Design Priciples
+	3. Design Principles
 	4. Design Data
 	5. Observability / Monitoring
 	6. API / Integration
 	7. Web vs Mobile
 	8. Security
-	9. Application/ Solution/ Enterprise Architeture
+	9. Application/ Solution/ Enterprise Architecture
 	10. Quality
 2.  Cloud Computing
 	1. AWS
