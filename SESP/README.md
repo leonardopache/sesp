@@ -22,12 +22,11 @@
 	6. ARM
 3.  Programming Languages
 	1. JVM Base
-		1. [[Java]]
+		1. [[Java (Spring boot)]]
 		2. [[Kotlin]]
 		3. Spring MVC
-		4. Spring Boot
-		5. Micronaut
-		6. Quarkus
+		5. [[Java (Micronaut)]]
+		6. [[Java (Quarkus)]]
 	2. Interpreted
 		1. [[Node.js]]
 		2. [[Python]]
