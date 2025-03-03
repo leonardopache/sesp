@@ -4,11 +4,11 @@ const { execSync } = require('child_process');
 // Get command-line arguments
 const args = process.argv.slice(2);
 if (args.length < 2) {
-    print("Usage: mongosh --file mongosh_import_export.js <remoteUri> <remoteDb>");
+    print("Usage: mongosh --file export_import.js <remoteUri> <remoteDb>");
     quit();
 }
 
-const remoteUri = args[0];  // Remote MongoDB connection URI
+const remoteUri = `mongodb://${args[0]}`;  // Remote MongoDB connection URI (without +srv)
 const remoteDb = args[1];   // Remote Database Name
 const localDb = "yourLocalDb"; // Change this if needed
 const localUri = "mongodb://localhost:27017/" + localDb;
